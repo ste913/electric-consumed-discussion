@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electric Bill Consuming Discussion</title>
+    <meta name="description" content="A discussion on electricity consumption and how it impacts your LESCO bill.">
+</head>
+<body>
+    <header>
+        <h1>Electric Bill Consuming Discussion</h1>
+    </header>
+    <section>
+        <h2>Understanding Electricity Consumption</h2>
+        <p>Electricity consumption plays a crucial role in determining the amount of your LESCO bill. The more appliances you use, the higher the consumption, leading to increased costs.</p>
+    </section>
+    <section>
+        <h2>Factors Affecting Your LESCO Bill</h2>
+        <ul>
+            <li><strong>Usage of High-Power Appliances:</strong> Devices like air conditioners, heaters, and refrigerators consume more electricity.</li>
+            <li><strong>Peak Hour Usage:</strong> Electricity rates are often higher during peak hours, affecting your monthly bill.</li>
+            <li><strong>Energy Efficiency:</strong> Using energy-efficient appliances and LED lights can help reduce your bill.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>How to Reduce Your Electricity Bill?</h2>
+        <p>To lower your LESCO bill, consider the following tips:</p>
+        <ol>
+            <li>Unplug unused electronic devices to prevent phantom energy loss.</li>
+            <li>Use solar panels to reduce dependence on grid electricity.</li>
+            <li>Opt for energy-efficient appliances and smart meters.</li>
+        </ol>
+    </section>
+    <section>
+        <h2>Useful Resources</h2>
+        <p>For more details on LESCO billing and energy-saving tips, visit <a href="https://lescobillcheckonline.com.pk/" target="_blank">LESCO Official Website</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 LESCO Bill Guide. All rights reserved.</p>
+    </footer>
+</body>
+</html>
